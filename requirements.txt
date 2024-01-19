@@ -1,0 +1,10 @@
+aws-cdk.core==1.139.0
+aws-cdk.aws_eks==1.139.0
+aws-cdk.aws_opensearchservice==1.139.0
+aws-cdk.aws_iam==1.139.0
+boto3==1.21.0
+# opensearch
+pip install requests
+pip install requests-aws4auth
+pip install boto3
+
