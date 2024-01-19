@@ -6,7 +6,7 @@ aws --endpoint-url=http://localhost:4566 --region us-east-1 opensearch describe-
 create if not exists:
 aws --endpoint-url=http://localhost:4566 --region us-east-1 opensearch create-domain --domain-name my-local-domain
 
-
+Elastic search endpoint:
 my-local-domain.us-east-1.opensearch.localhost.localstack.cloud:4566
 
 
